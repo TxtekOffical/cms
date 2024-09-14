@@ -1,0 +1,68 @@
+/**
+ * @name Cms
+ * @author maenDisease
+ * @version 1.0.11
+ * @description macOS with barely any customization.
+ * @source https://github.com/maenDisease/Solana
+ * @invite BShu37e4jg
+ * @website https://maendisease.github.io/
+ * @authorId 678469587444170762
+ * @BDEditor Solana
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+Cuba:wght@100;300;400;500;700&display=swap');
+@import url('https://maendisease.github.io/Solana/Solana.css');
+@import url('https://maendisease.github.io/BetterDiscordStuff/css/bdAddonMini.css');
+@import url('https://maendisease.github.io/BetterDiscordStuff/Themes/Solana/addon/mac-titlebar.css');
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Apple.css');
+
+:root {
+  --accent-hue: 359;
+  --accent-saturation: 0%;
+  --accent-brightness: 43%;
+  --background-accent-hue: 0;
+  --background-accent-saturation: 0%;
+  --background-accent-brightness: 0%;
+  --background-image: url('https://i.pinimg.com/564x/d9/5a/ed/d95aed10b9e7cd5ae58e01db19883552.jpg'); /* url(https://site.com/foobar.png) | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
+  --background-image-position: center;
+  --background-image-size: cover;
+  --background-image-blur: 2px;
+  --background-overlay-opacity: 53%;
+  --background-overlay-color-lightness: -0.23;
+  --background-hue-shift-strength: 100%;
+  --window-background-image: url('https://i.pinimg.com/236x/38/2f/74/382f7428160f512d1608034d6066820b.jpg');
+  --window-background-image-position: center;
+  --window-background-image-size: cover;
+  --window-background-image-attachment: fixed;
+  --window-opacity: 100%;
+  --window-blur: 50;
+  --window-friends-blur: 10;
+  --window-margin: 7;
+  --window-margin-left: 6;
+  --window-border-radius: 3px;
+  --window-background-lightness: -0.42;
+  --window-accent-tint-strength: 0%;
+  --chat-bubble: 0;
+  --text-link-hue: 359;
+  --chat-text-brightness: 0.1;
+  --home-icon: url('https://i.pinimg.com/236x/39/62/fb/3962fb335da00c38ab999636701e6ab4.jpg');
+  --favorites-icon: url('https://i.pinimg.com/736x/e0/57/4e/e0574ea0baaf8d4b06d87df72151b7b5.jpg');
+  --dock-blur: 0; /* Blur intensity of the dock. */
+  --dock-border-radius: -0.61;
+  --sidebar-width: 228px;
+  --members-width: 213px;
+  --sidebar-text-brightness: -0.18;
+  --background-floating-blur: 20px;
+  --floating-background-lightness: 0;
+  --background-floating-opacity: 1;
+  --enable-floating-transparency: 1;
+  --custom-font-display: Playwrite Cuba;
+  --custom-font-regular: Playwrite Cuba;
+  --custom-font-primary: Playwrite Cuba;
+  --custom-font-code: Playwrite Cuba;
+  --enable-blur: 1;
+}
+
+/* Any custom CSS below here */
+
+
