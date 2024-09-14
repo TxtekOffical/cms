@@ -5,3 +5,7 @@ Not stolen, SOLANIAN/SOLANA -
 
 Aesthetic > forest, foggy, dark.
 Genre > emo
+
+@author maenDisease
+@author 2 tk/tx
+@author mhaniPlz
